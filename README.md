@@ -1,5 +1,5 @@
 # buzsmtp
-Simple Bash SMTP enumeration
+<b>Simple Bash SMTP enumeration</b>
 
 Run only for port 25
 
