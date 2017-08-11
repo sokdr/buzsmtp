@@ -6,7 +6,7 @@ Run only for port 25
 Nmap should be installed on your linux machine in order to run the script:
 
 Permissions: chmod +x buzsmtp.sh
-Command: ./buzsmtp ipv4Address smtpPort
+<p>Command: ./buzsmtp ipv4Address smtpPort</p>
 
 ```
 
