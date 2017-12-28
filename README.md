@@ -1,7 +1,7 @@
 # buzsmtp
 <b>Simple Bash SMTP enumeration</b>
 
-Run only for port 25
+Port 25
 
 Nmap should be installed on your linux machine in order to run the script:
 
